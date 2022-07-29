@@ -7,4 +7,4 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Follow](https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000)
+![Follow](https://img.shields.io/github/followers/marattagian.svg?style=social&label=Follow&maxAge=2592000)
