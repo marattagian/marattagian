@@ -11,4 +11,4 @@
 
 ![Follow](https://img.shields.io/github/followers/{marattagian}.svg?style=social&label=Follow&maxAge=2592000)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marattagian)
