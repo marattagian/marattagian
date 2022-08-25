@@ -3,11 +3,11 @@
 
 I'm Gian, a self-thaugh backend developer from Argentina 🇦🇷 and also a films 🎞 lover. If you're interested you always can go and check [my website](https://marattagian.github.io/).
 
-![Metrics](https://metrics.lecoq.io/marattagian?template=classic&base.community=0&base.metadata=0&languages=1&isocalendar=1&introduction=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.ignored=html%2C%20css&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=America%2FArgentina%2FMendoza)
+<!-- ![Metrics](https://metrics.lecoq.io/marattagian?template=classic&base.community=0&base.metadata=0&languages=1&isocalendar=1&introduction=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.ignored=html%2C%20css&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=America%2FArgentina%2FMendoza) -->
 
-### Currently using
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+<!-- ### Currently using -->
+<!-- ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) -->
+<!-- ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) -->
 
 ### Things that I use
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
